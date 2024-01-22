@@ -174,7 +174,9 @@ section.intro img.picture{
 }
 @media screen and (max-width: 500px){
     section.intro img.picture{
-        right:unset
+        right:unset;
+        margin-left: 90px;
+
     }
 }
 section.intro .container{
